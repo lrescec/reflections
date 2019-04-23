@@ -5,3 +5,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 -staging area is a place in between those two, you put in it everything that's ready for commit and makes a logical unit. You can add files from one unit when you are done working on it and go on working on other files related to it and then when you're done with all of them, make a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+-You can easily see what you're about to commit and add or remove files if you think they don't fit in that commit or if something's missing
