@@ -21,3 +21,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 -It is now just one branch with commits (and changes) from both of the branches. In the diagram it is shown which commits were made while the branches were seperated and which before and after the separation.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+-When you have changed different parts of code then the automatic merge is better, easier and faster, but in other situations it doesn't know how to solve it so you have to do it manually.
